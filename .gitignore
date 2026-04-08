@@ -4,3 +4,18 @@ __pycache__/
 venv/
 node_modules/
 frontend/dist/
+
+# System/app directories accidentally committed before
+opt/
+usr/
+DEBIAN/
+templates/
+
+# Old Flask files
+app.py
+add_home.py
+homes.py
+connect.py
+update_home.py
+myscript.py
+linuxcmds.txt
